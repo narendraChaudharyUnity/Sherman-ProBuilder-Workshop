@@ -416,7 +416,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh45660
+  m_Name: pb_Mesh62112
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -429,6 +429,16 @@ Mesh:
     localAABB:
       m_Center: {x: 25, y: 0, z: 25}
       m_Extent: {x: 25, y: 0, z: 25}
+  - serializedVersion: 2
+    firstByte: 432
+    indexCount: 0
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 0
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0, y: 0, z: 0}
   m_Shapes:
     vertices: []
     shapes: []

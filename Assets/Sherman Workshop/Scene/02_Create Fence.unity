@@ -126,7 +126,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11100
+  m_Name: pb_Mesh21370
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -337,7 +337,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11170
+  m_Name: pb_Mesh21474
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -742,7 +742,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh21368
+  m_Name: pb_Mesh21422
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -905,7 +905,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11238
+  m_Name: pb_Mesh21434
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1481,7 +1481,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-10198
+  m_Name: pb_Mesh21384
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2080,22 +2080,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0c1860c7f0afe14bb179d7c61739c94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  note: 'In this learn cycle,
-
-
-    1) Create Empty Scene.
-
-    2) Install Probuilder and ProGrids Packages from Package Manager.
-
-    3) Open Probuilder(Menu Bar: Tools > ProBuilder > ProBuilder Window.
-
-    4) To create grass plane in scene, Hold Down ''Alt'' Key and click on ''New Shape
-    Tool'' inside Probuilder window. This will open ''Shape Tool'' window.
-
-    5) Select ''Plane'' from drop down list of ''Shape Selector'' and set ''Shape
-    Settings'' as per requirements and press ''Build'' button.
-
-    5) Create a grass material and apply it on grass plane.'
+  note: "In this learn cycle, we will create fences using ProBuilder\n\n1) Create
+    a cube from 'Shape Tool'. \n5) Select 'Plane' from drop down list of 'Shape Selector'
+    and set 'Shape Settings' as per requirements and press 'Build' button.\n5) Create
+    a grass material and apply it on grass plane."
 --- !u!4 &1234884868
 Transform:
   m_ObjectHideFlags: 0
@@ -7660,7 +7648,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-10962
+  m_Name: pb_Mesh21458
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -8716,7 +8704,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11030
+  m_Name: pb_Mesh21410
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
